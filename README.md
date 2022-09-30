@@ -1,3 +1,3 @@
 # Classroom Demo
  
-Steven Jordanz's demo for classroom file.
+Steven Jordan's demo for classroom file.
